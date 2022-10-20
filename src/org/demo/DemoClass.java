@@ -12,6 +12,7 @@ public class DemoClass {
 			}
 	}
 		System.out.println("prime number");
+		System.out.println("First Line");
 
 }
 }
